@@ -1,5 +1,2 @@
-//
-// Created by hp on 09/09/2025.
-//
-
-#include "utillities.h"
+#include "utilities.h"
+int add(int a, int b) { return a + b; }
